@@ -1,8 +1,4 @@
-# BTC Miner
 
-## Authors
-Amogh Mannekote; `amogh.mannekote`, GatorID 27146587 \
-Gloria Katuka, `gkatuka`, GatorID 01900360 
 
 ## Running an application
 1. Run `erl -make` from `project-4/`
