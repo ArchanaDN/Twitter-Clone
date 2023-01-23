@@ -4,7 +4,7 @@
 Amogh Mannekote; `amogh.mannekote`, GatorID 27146587 \
 Gloria Katuka, `gkatuka`, GatorID 01900360 
 
-## Running an application (fur Archana)
+## Running an application
 1. Run `erl -make` from `project-4/`
 2. Run `erl -pa ebin` from `project-4/`
 3. Do `application:start(tweeter).`
